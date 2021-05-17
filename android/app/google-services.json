@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "566829118912",
+    "project_id": "asa-mobile",
+    "storage_bucket": "asa-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566829118912:android:1c13e1acb7c97dd4f48425",
+        "android_client_info": {
+          "package_name": "com.example.mobile100asa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566829118912-u1tuu4hbijma5mjtgbjr4v15tf15dke0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobile100asa",
+            "certificate_hash": "0c7c1fb1e6774b238ebebb595e7a94302c10cfad"
+          }
+        },
+        {
+          "client_id": "566829118912-u1t5at5lvq5ifo662dahbu4ni1t89cq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMIQ3JPqBiOYQEfwEm3sX9oHcuxkiV4ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566829118912-u1t5at5lvq5ifo662dahbu4ni1t89cq3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "566829118912-ftgsso3kija3783hb4ocs5l448qepmf9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.100asa.mobile100asa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
